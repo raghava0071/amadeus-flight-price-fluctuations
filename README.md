@@ -95,3 +95,10 @@ This project is MIT licensed. See **LICENSE**.
 ## Visuals
 ![Price distribution](assets/price_hist.png)
 ![Price vs duration](assets/price_vs_duration.png)
+
+
+## Insights (auto-generated)
+- Cheapest observed price: **$774.97**
+- Median price across offers: **$1,482.82** (avg: $2,078.77)
+- Pareto-optimal options (cheapest vs fastest): **4**
+- See charts below for distribution and duration trade-offs.
