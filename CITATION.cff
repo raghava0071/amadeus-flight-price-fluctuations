@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Flight Price & Timing Fluctuation Tracker (Amadeus)"
+version: "0.1.0"
+date-released: "2025-08-22"
+authors:
+  - family-names: "Karanam"
+    given-names: "Raghavendra"
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>"
+license: "MIT"
+keywords: [amadeus, flights, data-science, colab, visualization, portfolio]
