@@ -6,6 +6,6 @@ date-released: "2025-08-22"
 authors:
   - family-names: "Karanam"
     given-names: "Raghavendra"
-repository-code: "https://github.com/<raghava0071>/<amadeus-flight-price-fluctuations>"
+repository-code: "https://github.com/amadeus-flight-price-fluctuations/<amadeus-flight-price-fluctuations>"
 license: "MIT"
 keywords: [amadeus, flights, data-science, colab, visualization, portfolio]
