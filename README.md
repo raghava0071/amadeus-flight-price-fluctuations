@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](#)
-[![Colab](https://img.shields.io/badge/Run%20in-Colab-orange)](https://colab.research.google.com/github/<raghava0071>/<amadeus-flight-price-fluctuations>/blob/main/notebooks/Amadeus_Flight_Price_Analysis.ipynb)
+[![Colab](https://img.shields.io/badge/Run%20in-Colab-orange)](https://colab.research.google.com/github/raghava0071/amadeus-flight-price-fluctuations/blob/main/notebooks/Amadeus_Flight_Price_Analysis.ipynb)
 
 Analyze **flight price and timing fluctuations** with the Amadeus Self-Service APIs.
 This repo includes a Colab-friendly notebook, modular Python helpers, and CI.
