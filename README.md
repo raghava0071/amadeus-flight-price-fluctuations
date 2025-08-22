@@ -79,11 +79,7 @@ It’s designed to be **portfolio-quality** (clear structure, docs, tests, and b
 pytest -q
 ```
 
-## 🛠️ Make it “Top 1%” on GitHub
-- Add a **social preview image** (repo Settings → Social preview).
-- Pin the repo on your profile; add **topics**: `amadeus`, `flights`, `data-science`, `colab`.
-- Create a **release** (v0.1.0) and add a short changelog in the README.
-- Keep the README crisp with a **one-sentence value prop**, visuals, and the Colab badge.
+
 
 ## 📄 License
 This project is MIT licensed. See **LICENSE**.
