@@ -20,8 +20,8 @@ It’s designed to be **portfolio-quality** (clear structure, docs, tests, and b
 2. Copy this project into your repo folder.
 3. Create and fill **.env** (or set env vars in Colab):
    ```bash
-   AMADEUS_CLIENT_ID=YOUR_KEY
-   AMADEUS_CLIENT_SECRET=YOUR_SECRET
+   AMADEUS_CLIENT_ID=raghava0071
+   AMADEUS_CLIENT_SECRET=amadeus-flight-price-fluctuations
    ```
 4. Install deps:
    ```bash
