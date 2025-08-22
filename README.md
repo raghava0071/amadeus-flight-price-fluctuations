@@ -90,3 +90,8 @@ This project is MIT licensed. See **LICENSE**.
 
 ## 🙏 Acknowledgements
 - Built with Amadeus Self-Service APIs.
+
+
+## Visuals
+![Price distribution](assets/price_hist.png)
+![Price vs duration](assets/price_vs_duration.png)
