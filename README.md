@@ -98,3 +98,24 @@ This project is MIT licensed. See **LICENSE**.
 - Median price across offers: **$1,482.82** (avg: $2,078.77)
 - Pareto-optimal options (cheapest vs fastest): **4**
 - See charts below for distribution and duration trade-offs.
+
+## Latest Results — MIA ↔ India (Dec 1–6 / Jan 12–20)
+
+**Cheapest found:** **$754.97 USD** — TURKISH AIRLINES  
+**Itinerary:** MIA-BOM / BOM-MIA  
+**Dates:** depart **2025-12-01**, return **2026-01-16**
+
+![Top 6 Cheapest](assets/top6_bar.png)
+
+**Data file:** [cheapest_top6_fast.csv](cheapest_top6_fast.csv)
+
+### Table (Top 6)
+| route             | depart_date   | return_date   |   price | currency   |   out_stops |   ret_stops | out_carriers                  |
+|:------------------|:--------------|:--------------|--------:|:-----------|------------:|------------:|:------------------------------|
+| MIA-BOM / BOM-MIA | 2025-12-01    | 2026-01-16    |  754.97 | USD        |           1 |           1 | TURKISH AIRLINES              |
+| MIA-BOM / BOM-MIA | 2025-12-01    | 2026-01-15    |  754.97 | USD        |           1 |           1 | TURKISH AIRLINES              |
+| MIA-BOM / BOM-MIA | 2025-12-01    | 2026-01-14    |  754.97 | USD        |           1 |           1 | TURKISH AIRLINES              |
+| MIA-BOM / BOM-MIA | 2025-12-01    | 2026-01-13    |  754.97 | USD        |           1 |           1 | TURKISH AIRLINES              |
+| MIA-BOM / BOM-MIA | 2025-12-01    | 2026-01-17    |  814.97 | USD        |           1 |           1 | TURKISH AIRLINES              |
+| MIA-BOM / BOM-MIA | 2025-12-01    | 2026-01-18    |  929.37 | USD        |           1 |           1 | SWISS INTERNATIONAL AIR LINES |
+
